@@ -1,6 +1,6 @@
 <?php
 
-namespace phpUnitTutorial\Test;
+namespace phpunittutorial\Test;
 
 class StupidTest extends \PHPUnit_Framework_TestCase
 {

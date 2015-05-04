@@ -1,6 +1,6 @@
 <?php
 
-namespace phpUnitTutorial;
+namespace phpunittutorial;
 
 class URL
 {

@@ -1,8 +1,8 @@
 <?php
 
-namespace phpUnitTutorial\Test;
+namespace phpunittutorial\Test;
 
-use phpUnitTutorial\URL;
+use phpunittutorial\URL;
 
 class URLTest extends \PHPUnit_Framework_TestCase
 {
