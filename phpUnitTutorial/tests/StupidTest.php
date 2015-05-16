@@ -10,9 +10,9 @@ class StupidTest extends \PHPUnit_Framework_TestCase
 	    $this->assertTrue($foo);
 	}
 
-	public function testThisShouldFail()
-	{
-		$foo = false;
-		$this->assertTrue($foo);
-	}
+	// public function testThisShouldFail()
+	// {
+	// 	$foo = false;
+	// 	$this->assertTrue($foo);
+	// }
 }
