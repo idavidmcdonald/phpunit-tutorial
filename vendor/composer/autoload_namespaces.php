@@ -6,6 +6,9 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    'phpunittutorial' => array($baseDir . '/'),
-    'Symfony\\Component\\Yaml' => array($vendorDir . '/symfony/yaml'),
+    'phpDocumentor' => array($vendorDir . '/phpdocumentor/reflection-docblock/src'),
+    'app' => array($baseDir . '/'),
+    'Symfony\\Component\\Yaml\\' => array($vendorDir . '/symfony/yaml'),
+    'Prophecy\\' => array($vendorDir . '/phpspec/prophecy/src'),
+    'Doctrine\\Instantiator\\' => array($vendorDir . '/doctrine/instantiator/src'),
 );
